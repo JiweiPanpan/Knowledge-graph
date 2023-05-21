@@ -1,0 +1,2500 @@
+R0	same as	L621258
+R0	yields	R6
+R0	employs	R9
+R0	addresses	R8
+R3038	web site	R0
+R0	addresses	R7
+R12002	Template of predicate	P1
+P1	description	L427139
+R160848	research field	R172
+R160768	has subject	R172
+R160760	research field	R172
+R160757	research field	R172
+R160755	research field	R172
+R160753	research field	R172
+R160750	research field	R172
+R160747	research field	R172
+R160744	research field	R172
+R160742	has subject	R172
+R160737	research field	R172
+R160735	research field	R172
+R160733	research field	R172
+R160730	research field	R172
+R160727	research field	R172
+R160725	research field	R172
+R160723	research field	R172
+R160721	research field	R172
+R160718	research field	R172
+R160715	research field	R172
+R160712	research field	R172
+R160205	has subject	R172
+R160202	research field	R172
+R160199	research field	R172
+R160196	research field	R172
+R160193	research field	R172
+R160190	research field	R172
+R160189	has subject	R172
+R160186	research field	R172
+R160183	research field	R172
+R160180	research field	R172
+R160177	research field	R172
+R160174	has subject	R172
+R160168	has subject	R172
+R160161	research field	R172
+R160158	research field	R172
+R160155	research field	R172
+R160152	research field	R172
+R160150	research field	R172
+R160149	has subject	R172
+R160146	research field	R172
+R160144	research field	R172
+R160141	research field	R172
+R160138	research field	R172
+R160136	research field	R172
+R155584	has subject	R172
+R155579	research field	R172
+R155576	research field	R172
+R155573	research field	R172
+R155570	research field	R172
+R155567	research field	R172
+R155564	research field	R172
+R155561	has subject	R172
+R155556	research field	R172
+R155553	research field	R172
+R155550	research field	R172
+R155547	research field	R172
+R155544	research field	R172
+R155543	has subject	R172
+R155540	research field	R172
+R155537	research field	R172
+R155535	research field	R172
+R155532	research field	R172
+R155530	research field	R172
+R155527	research field	R172
+R155526	has subject	R172
+R155523	research field	R172
+R155520	research field	R172
+R155517	research field	R172
+R155514	research field	R172
+R155511	research field	R172
+R155508	research field	R172
+R147196	has subject	R172
+R147194	research field	R172
+R147191	research field	R172
+R147188	research field	R172
+R147183	has subject	R172
+R147181	research field	R172
+R147178	research field	R172
+R147175	research field	R172
+R147172	research field	R172
+R147169	research field	R172
+R147167	has subject	R172
+R147164	research field	R172
+R147162	research field	R172
+R147159	research field	R172
+R147156	research field	R172
+R147153	research field	R172
+R147152	has subject	R172
+R147149	research field	R172
+R147146	research field	R172
+R147144	research field	R172
+R147141	research field	R172
+R147138	research field	R172
+R141385	has subject	R172
+R141381	research field	R172
+R141379	research field	R172
+R141376	research field	R172
+R141373	research field	R172
+R141370	research field	R172
+R141369	has subject	R172
+R141363	research field	R172
+R141360	research field	R172
+R141357	research field	R172
+R167	has subfield	R172
+R108803	research field	R172
+R109389	research field	R172
+R109392	research field	R172
+R109394	research field	R172
+R109396	research field	R172
+R109569	research field	R172
+R109573	research field	R172
+R109575	research field	R172
+R109577	research field	R172
+R109579	research field	R172
+R109583	research field	R172
+R109612	has subject	R172
+R138353	research field	R172
+R138357	research field	R172
+R138360	research field	R172
+R138364	research field	R172
+R138367	research field	R172
+R138370	research field	R172
+R138350	research field	R172
+R138373	has subject	R172
+R138404	research field	R172
+R138408	research field	R172
+R138411	research field	R172
+R138415	research field	R172
+R138418	has subject	R172
+R138466	research field	R172
+R138470	research field	R172
+R138474	research field	R172
+R138476	research field	R172
+R138479	research field	R172
+R138483	has subject	R172
+R138486	research field	R172
+R138490	research field	R172
+R138498	research field	R172
+R138501	has subject	R172
+R140583	research field	R172
+R141319	research field	R172
+R141322	research field	R172
+R141325	research field	R172
+R141328	research field	R172
+R141336	has subject	R172
+R141337	research field	R172
+R141340	research field	R172
+R141343	research field	R172
+R141349	has subject	R172
+R141351	research field	R172
+R141354	research field	R172
+R172	same as	L515983
+R172	same as	L515981
+R172	same as	L383413
+wikidata:Q413	same as	R173
+R173	same as	L515984
+R188144	research_field_investigated	R173
+R187613	academic discipline	R173
+R162410	research field	R173
+R173	has subfield	R137539
+R173	has subfield	R114141
+R173	has subfield	R114139
+R173	has subfield	R114138
+R173	has subfield	R114013
+R173	has subfield	R114137
+R173	has subfield	R114012
+R173	has subfield	R114015
+R173	has subfield	R114014
+R173	has subfield	R114005
+R173	has subfield	R114011
+R173	has subfield	R114008
+R173	has subfield	R114007
+R173	has subfield	R113277
+R51220	has subject	R173
+R38892	Fields	R173
+R27811	Topic	R173
+R173	has subfield	R183
+R173	has subfield	R185
+R173	has subfield	R179
+R173	has subfield	R184
+R107	has subfield	R173
+R173	has subfield	R175
+R173	has subfield	R178
+R173	has subfield	R182
+R173	has subfield	R186
+R173	has subfield	R177
+R173	has subfield	R181
+R173	has subfield	R176
+R173	has subfield	R180
+R288685	Conclusion validity	L638851
+R288685	repeatability	L638850
+R288685	descriptive validity	L638849
+R288685	reliability	L638848
+R288685	Construct validity	L638847
+R288685	theoretical validity	L638846
+R288685	content validity	L638845
+R288685	generalizability	L638844
+R288685	Internal validity	L638843
+R288685	External validity	L638842
+R199007	Threat to validity	R288685
+R217401	Template of research field	R175
+R217398	Template of research field	R175
+R217516	Template of research field	R175
+R246000	research field	R175
+R245966	research field	R175
+R245956	research field	R175
+R245945	research field	R175
+R245942	research field	R175
+R245924	research field	R175
+R245906	research field	R175
+R245850	research field	R175
+R245833	research field	R175
+R245815	research field	R175
+R245797	research field	R175
+R245247	research field	R175
+R238864	research field	R175
+R238855	research field	R175
+R238853	research field	R175
+R238315	research field	R175
+R238245	research field	R175
+R235992	research field	R175
+R235972	research field	R175
+R235944	research field	R175
+R235930	research field	R175
+R235914	research field	R175
+R235898	research field	R175
+R235883	research field	R175
+R235869	research field	R175
+R235850	research field	R175
+R235828	research field	R175
+R235804	research field	R175
+R235802	research field	R175
+R235800	research field	R175
+R235703	research field	R175
+R235681	research field	R175
+R235663	research field	R175
+R235647	research field	R175
+R235357	research field	R175
+R235309	research field	R175
+R235281	research field	R175
+R235254	research field	R175
+R235230	research field	R175
+R235126	research field	R175
+R221781	has subject	R175
+R220473	research field	R175
+R220457	research field	R175
+R220440	research field	R175
+R220424	research field	R175
+R220007	research field	R175
+R219988	research field	R175
+R219554	research field	R175
+R219408	research field	R175
+R191978	has subject	R175
+R191658	has subject	R175
+R190585	research field	R175
+R184022	Template of research field	R175
+R185267	has subject	R175
+R185262	has subject	R175
+R185211	research field	R175
+R185172	research field	R175
+R185136	research field	R175
+R185098	research field	R175
+R185065	research field	R175
+R185033	research field	R175
+R185000	research field	R175
+R184383	research field	R175
+R184351	research field	R175
+R184318	research field	R175
+R184195	research field	R175
+R184163	research field	R175
+R184054	research field	R175
+R184047	research field	R175
+R145686	has subject	R175
+R145645	research field	R175
+R145633	research field	R175
+R145620	research field	R175
+R145608	research field	R175
+R145596	research field	R175
+R145584	research field	R175
+R145572	research field	R175
+R145559	research field	R175
+R145120	Template of research field	R175
+R145455	research field	R175
+R145134	research field	R175
+R145031	has subject	R175
+R144901	research field	R175
+R144895	research field	R175
+R144889	research field	R175
+R144706	has subject	R175
+R144613	research field	R175
+R144281	research field	R175
+R144293	research field	R175
+R144290	research field	R175
+R144287	research field	R175
+R144284	research field	R175
+R108823	research field	R175
+R108821	research field	R175
+R108860	research field	R175
+R108934	research field	R175
+R108936	research field	R175
+R108938	research field	R175
+R108940	research field	R175
+R108942	research field	R175
+R108944	research field	R175
+R108946	research field	R175
+R108948	research field	R175
+R108950	research field	R175
+R108952	research field	R175
+R108954	research field	R175
+R108956	research field	R175
+R108958	research field	R175
+R109041	has subject	R175
+R141444	research field	R175
+R141447	research field	R175
+R141452	research field	R175
+R141457	research field	R175
+R141460	research field	R175
+R141429	research field	R175
+R141432	research field	R175
+R141435	research field	R175
+R141439	research field	R175
+R141441	research field	R175
+R141450	research field	R175
+R141532	research field	R175
+R141535	research field	R175
+R141538	research field	R175
+R141542	research field	R175
+R141544	research field	R175
+R141550	research field	R175
+R141593	has subject	R175
+R141783	has subject	R175
+R175	has subfield	R114009
+R175	has subfield	R114010
+R176	same as	L369023
+R176	has synonym	L369022
+R176	same as	L369021
+R176	has synonym	L369020
+R68540	research field	R176
+R584002	research field	R177
+R177	has subfield	R137552
+R177	has subfield	R137551
+R177	has synonym	L383430
+R177	same as	L383394
+R177	has subfield	R112147
+R177	has subfield	R112145
+R177	has subfield	R112144
+R177	same as	L367069
+R178	same as	L367081
+R178	description	L367080
+R178	has synonym	L367079
+R3110	research field	R178
+R181	same as	L369031
+R201978	Template of research field	R184
+R201957	Template of research field	R184
+R201946	Template of research field	R184
+R202062	Template of research field	R184
+R202048	Template of research field	R184
+R202047	Template of research field	R184
+R200028	research field	R184
+R184	same as	L369110
+R74698	research field	R184
+R74695	research field	R184
+R2018	research field	R184
+R217401	Template of research field	R185
+R588031	has subject	R185
+R585065	research field	R185
+R585052	research field	R185
+R584986	research field	R185
+R584982	research field	R185
+R584978	research field	R185
+R584974	research field	R185
+R584969	research field	R185
+R584965	research field	R185
+R584938	research field	R185
+R584936	research field	R185
+R331620	research field	R185
+R217398	Template of research field	R185
+R217516	Template of research field	R185
+R162410	research field	R185
+R157326	has subject	R185
+R152828	Template of research field	R185
+R156908	research field	R185
+R156867	research field	R185
+R156819	research field	R185
+R156770	research field	R185
+R156705	research field	R185
+R156663	research field	R185
+R156620	research field	R185
+R156576	research field	R185
+R156533	research field	R185
+R156490	research field	R185
+R156448	research field	R185
+R156306	Template of research field	R185
+R156404	research field	R185
+R156333	research field	R185
+R156308	research field	R185
+R155101	has subject	R185
+R155047	research field	R185
+R155003	research field	R185
+R154961	research field	R185
+R154909	research field	R185
+R154866	research field	R185
+R154823	research field	R185
+R154764	research field	R185
+R154715	research field	R185
+R154337	research field	R185
+R154299	research field	R185
+R154287	has subject	R185
+R154171	research field	R185
+R154122	research field	R185
+R154074	research field	R185
+R154021	research field	R185
+R153969	research field	R185
+R153925	research field	R185
+R153258	research field	R185
+R152841	research field	R185
+R152186	has subject	R185
+R152133	research field	R185
+R152108	research field	R185
+R152081	research field	R185
+R151970	research field	R185
+R151947	research field	R185
+R151925	research field	R185
+R151898	research field	R185
+R151875	research field	R185
+R151852	research field	R185
+R151828	research field	R185
+R151826	has subject	R185
+R151786	research field	R185
+R151763	research field	R185
+R151739	research field	R185
+R151716	research field	R185
+R151692	research field	R185
+R151668	research field	R185
+R151644	research field	R185
+R151567	research field	R185
+R151493	research field	R185
+R151466	research field	R185
+R151437	research field	R185
+R151016	Template of research field	R185
+R145685	has subject	R185
+R139062	research field	R185
+R139065	research field	R185
+R139068	research field	R185
+R139071	research field	R185
+R139074	research field	R185
+R139077	research field	R185
+R139080	research field	R185
+R139083	research field	R185
+R139086	research field	R185
+R139089	research field	R185
+R139094	research field	R185
+R139097	research field	R185
+R139100	research field	R185
+R139103	research field	R185
+R139106	research field	R185
+R139109	research field	R185
+R139112	research field	R185
+R139115	research field	R185
+R139118	research field	R185
+R139121	research field	R185
+R139124	research field	R185
+R139127	research field	R185
+R139130	research field	R185
+R139132	research field	R185
+R139135	research field	R185
+R139092	research field	R185
+R139190	has subject	R185
+R145171	research field	R185
+R145174	research field	R185
+R145177	research field	R185
+R145180	research field	R185
+R145183	research field	R185
+R145186	research field	R185
+R145188	research field	R185
+R145191	research field	R185
+R145194	research field	R185
+R145197	research field	R185
+R145200	research field	R185
+R145203	research field	R185
+R145205	research field	R185
+R145208	research field	R185
+R145210	research field	R185
+R145213	research field	R185
+R145216	research field	R185
+R145219	research field	R185
+R145222	research field	R185
+R185	has synonym	L369111
+R185	same as	L369112
+R186	same as	L369120
+R186	has synonym	L369119
+R186	has subfield	R112146
+R1	employs	L3
+R1	employs	R2
+R1	yields	R3
+R1	addresses	R4
+R1	addresses	R5
+R250925	path	P0
+R186378	path	P0
+R186306	path	P0
+R184305	path	P0
+P0	same as	L470695
+P0	description	L470634
+R178267	path	P0
+R178145	path	P0
+R107684	Template of predicate	P0
+R212283	path	P3
+R175383	path	P3
+R175375	path	P3
+R175017	path	P3
+R175003	path	P3
+R175001	path	P3
+R172470	path	P3
+R171807	path	P3
+R171801	path	P3
+R166832	path	P3
+R159864	path	P3
+R159844	path	P3
+R159294	path	P3
+R159290	path	P3
+R159282	path	P3
+R151998	Template of predicate	P4
+R250895	path	P6
+R186346	path	P6
+R186274	path	P6
+R184270	path	P6
+R182301	path	P6
+R178307	path	P6
+R178289	path	P6
+R178283	path	P6
+P6	same as	L470664
+P6	description	L470604
+R178231	path	P6
+R178109	path	P6
+R178054	path	P6
+R250924	path	P7
+R186375	path	P7
+R186303	path	P7
+R184302	path	P7
+P7	same as	L470694
+P7	description	L470633
+R178264	path	P7
+R178142	path	P7
+R111124	has property	P7
+R250923	path	P8
+R186374	path	P8
+R186302	path	P8
+R184301	path	P8
+P8	same as	L470693
+P8	description	L470632
+R178263	path	P8
+R178141	path	P8
+R150040	Template of predicate	P10
+R576572	path	P11
+R576182	path	P11
+R171794	path	P11
+R171799	path	P11
+R171805	path	P11
+R175373	path	P11
+R175381	path	P11
+R212280	path	P11
+R287209	path	P11
+R287468	path	P11
+R287526	path	P11
+R354024	path	P11
+P11	description	L462292
+R212281	path	P12
+R175382	path	P12
+R175374	path	P12
+R171806	path	P12
+R171800	path	P12
+P12	description	L462299
+P13	description	L94360
+R272079	has property	P14
+R259184	has property	P14
+R259177	path	P14
+R259112	has property	P14
+R255383	path	P14
+R250916	path	P14
+R227615	has property	P14
+R226630	has property	P14
+R224810	has property	P14
+R224809	has property	P14
+R220697	has property	P14
+R218562	path	P14
+R217890	path	P14
+R217421	has property	P14
+R217418	has property	P14
+R217407	has property	P14
+R217404	has property	P14
+R217400	has property	P14
+R113022	has entity	P14
+R142858	has link	P14
+R143670	path	P14
+R144161	path	P14
+R144766	path	P14
+R166241	path	P14
+R166257	path	P14
+R166360	path	P14
+R166383	path	P14
+R166396	path	P14
+R166485	path	P14
+R166490	path	P14
+R178078	path	P14
+R178133	path	P14
+R178255	path	P14
+R184294	path	P14
+R186295	path	P14
+R186367	path	P14
+R198138	path	P14
+R198607	path	P14
+R215999	path	P14
+P14	description	L90021
+P14	same as	L470687
+R6755	has property	P15
+R6756	has property	P15
+R6757	has property	P15
+R6947	has property	P15
+R6948	has property	P15
+R250914	path	P17
+R186365	path	P17
+R186293	path	P17
+R184292	path	P17
+P17	same as	L470685
+P17	description	L470625
+R178253	path	P17
+R178131	path	P17
+R178076	path	P17
+R141490	path	P19
+R141482	path	P19
+R141492	path	P20
+R141484	path	P20
+R43037	has property	P20
+R250878	path	P21
+R227615	has property	P21
+R186328	path	P21
+R186256	path	P21
+R184252	path	P21
+P21	same as	L470646
+P21	description	L470586
+R178213	path	P21
+R178091	path	P21
+R178036	path	P21
+R178021	path	P21
+R591056	path	P26
+R588184	path	P26
+R155473	path	P26
+R111207	path	P26
+R111195	path	P26
+R111182	path	P26
+R111171	path	P26
+R111159	path	P26
+R591052	path	P27
+R588182	path	P27
+R155471	path	P27
+R136441	path	P27
+R136422	path	P27
+R135785	path	P27
+R135421	path	P27
+R111204	path	P27
+R111192	path	P27
+R111179	path	P27
+R111168	path	P27
+R111165	path	P27
+R107752	path	P27
+R77103	path	P27
+R588183	path	P28
+R155474	path	P28
+R588185	path	P29
+R201602	path	P29
+R155475	path	P29
+R111133	has property	P29
+R111130	has property	P29
+R111129	has property	P29
+R111124	has property	P29
+R107751	path	P29
+R77102	path	P29
+R75729	has property	P29
+R75673	has property	P29
+R588187	path	P30
+R576178	path	P30
+P30	description	L1013868
+R155477	path	P30
+R107754	path	P30
+R77105	path	P30
+R588181	path	P31
+R138077	Template of predicate	P31
+R107801	Template of predicate	P31
+R40006	Template of predicate	P31
+R184022	Template of predicate	P31
+R161736	Template of predicate	P31
+R155472	path	P31
+R46273	Template of predicate	P31
+R151016	Template of predicate	P31
+R150089	Template of predicate	P31
+R146876	Template of predicate	P31
+R147035	Template of predicate	P31
+R69198	Template of predicate	P31
+R145120	Template of predicate	P31
+R74758	Template of predicate	P31
+R48451	Template of predicate	P31
+R52190	Template of predicate	P31
+R51362	Template of predicate	P31
+R49308	Template of predicate	P31
+R49174	Template of predicate	P31
+R49156	Template of predicate	P31
+R49194	Template of predicate	P31
+R274032	has property	P32
+R567176	has entity	P32
+R566808	has entity	P32
+R566773	has entity	P32
+R346107	has entity	P32
+R274031	has property	P32
+R273018	has property	P32
+R272079	has property	P32
+R272044	has property	P32
+R272039	has property	P32
+R272035	has property	P32
+R272034	has property	P32
+R272033	has property	P32
+R272032	has property	P32
+R266420	has property	P32
+R266239	has property	P32
+R262134	has property	P32
+R262070	has property	P32
+R256496	has property	P32
+R255464	has property	P32
+R255409	has property	P32
+R255284	has property	P32
+R253021	has property	P32
+R250352	has property	P32
+R249037	has property	P32
+R246271	has property	P32
+R246270	has property	P32
+R246269	has property	P32
+R243001	has property	P32
+R240000	has property	P32
+R239548	has property	P32
+R239547	has property	P32
+R239066	has property	P32
+R238494	has property	P32
+R238243	has property	P32
+R236296	has property	P32
+R236148	has property	P32
+R235595	has property	P32
+R235572	has property	P32
+R235005	has property	P32
+R235004	has property	P32
+R230114	has property	P32
+R228134	has property	P32
+R226772	has property	P32
+R226630	has property	P32
+R225253	has property	P32
+R224810	has property	P32
+R224809	has property	P32
+R223226	has property	P32
+R223137	path	P32
+R223132	has property	P32
+R223001	has property	P32
+R222999	has property	P32
+R222998	has property	P32
+R222954	has property	P32
+R222814	has property	P32
+R222164	has property	P32
+R222041	has property	P32
+R221864	has property	P32
+R221781	has property	P32
+R221396	has property	P32
+R221394	has property	P32
+R221148	has property	P32
+R220920	has property	P32
+R220919	has property	P32
+R220885	has property	P32
+R220872	has property	P32
+R220715	path	P32
+R220697	has property	P32
+R220422	has property	P32
+R219130	has property	P32
+R218570	path	P32
+R218549	has property	P32
+R218144	has property	P32
+R217425	has property	P32
+R217424	has property	P32
+R217421	has property	P32
+R217418	has property	P32
+R217407	has property	P32
+R217404	has property	P32
+R217400	has property	P32
+R217013	has property	P32
+R217000	has property	P32
+R216505	has property	P32
+R216492	has property	P32
+R216444	has property	P32
+R216430	has property	P32
+R216407	has property	P32
+R216313	has property	P32
+R216212	has property	P32
+R216109	has property	P32
+R216073	has property	P32
+R215965	has property	P32
+R215964	has property	P32
+R215963	has property	P32
+R215685	has property	P32
+R215669	has property	P32
+R203923	path	P32
+R198738	path	P32
+R198611	path	P32
+R196295	path	P32
+R191703	path	P32
+R187834	path	P32
+R187431	path	P32
+R186702	path	P32
+R186463	path	P32
+R186455	path	P32
+R186428	path	P32
+R186402	path	P32
+R186395	path	P32
+R172541	path	P32
+R172535	path	P32
+R172150	path	P32
+R172146	path	P32
+R172141	path	P32
+R166486	path	P32
+R166481	path	P32
+R163614	has entity	P32
+R163169	path	P32
+R163151	path	P32
+R157414	has entity	P32
+R162494	path	P32
+R162386	path	P32
+R162384	path	P32
+R159857	path	P32
+R159837	path	P32
+R159274	path	P32
+R159106	path	P32
+R159100	path	P32
+R159096	path	P32
+R159092	path	P32
+R159088	path	P32
+R159084	path	P32
+R159081	path	P32
+R157388	has entity	P32
+R156240	path	P32
+R149018	path	P32
+R149017	path	P32
+R142862	has link	P32
+R136450	path	P32
+R136443	path	P32
+R136424	path	P32
+R113023	has entity	P32
+R113022	has entity	P32
+R113007	has entity	P32
+R111133	has property	P32
+R111130	has property	P32
+R111129	has property	P32
+R111124	has property	P32
+R111117	has property	P32
+R111045	has property	P32
+R110991	has property	P32
+R110673	has property	P32
+R110640	has property	P32
+R110625	has property	P32
+R110597	has property	P32
+R110479	has property	P32
+R110361	has property	P32
+R110262	has property	P32
+R110245	has property	P32
+R110188	has property	P32
+R110071	has property	P32
+R110032	has property	P32
+R109612	has property	P32
+R109546	has property	P32
+R109456	has property	P32
+R109324	has property	P32
+R109236	has property	P32
+R109041	has property	P32
+R108907	has property	P32
+R108888	has property	P32
+R108719	has property	P32
+R108601	has property	P32
+R108358	has property	P32
+R78352	has property	P32
+R78108	has property	P32
+R78049	has property	P32
+R78023	has property	P32
+R76906	has property	P32
+R6950	has property	P32
+R46295	has property	P32
+R46464	has property	P32
+R46297	has property	P32
+R46299	has property	P32
+R46298	has property	P32
+R6948	has property	P32
+R44675	has property	P32
+R12251	has property	P32
+R36153	has property	P32
+R6947	has property	P32
+R6757	has property	P32
+R6898	has property	P32
+R6946	has property	P32
+R27835	has property	P32
+R6756	has property	P32
+R43037	has property	P32
+R41148	has property	P32
+R38484	has property	P32
+R46296	has property	P32
+R36099	has property	P32
+R50014	has property	P32
+R53040	has property	P32
+R57501	has property	P32
+R58002	has property	P32
+R68125	has property	P32
+R70880	has property	P32
+R73180	has property	P32
+R73195	has property	P32
+R73210	has property	P32
+R74529	has property	P32
+R74541	has property	P32
+R74941	has property	P32
+R75363	has property	P32
+R75673	has property	P32
+R75701	has property	P32
+R75713	has property	P32
+R75729	has property	P32
+R75783	has property	P32
+R75840	has property	P32
+R76173	path	P32
+R76180	path	P32
+R76218	path	P32
+R76261	path	P32
+R76284	has property	P32
+R76304	path	P32
+R76461	path	P32
+R76692	has property	P32
+P32	description	L538321
+R238243	has property	P34
+R220713	path	P34
+R219286	has property	P34
+P34	description	L524397
+R203428	Template of predicate	P34
+R6946	has property	P34
+R6898	has property	P34
+R112095	path	P36
+R70787	path	P36
+R3007	is a	R10
+R4603	is a	R10
+R4664	is a	R10
+R5107	is a	R10
+R4084	is a	R10
+R4978	is a	R10
+R4568	is a	R10
+R4753	is a	R10
+R4838	is a	R10
+R5020	is a	R10
+R3031	is a	R10
+R4622	is a	R10
+R2018	is a	R10
+R5218	is a	R10
+R5129	is a	R10
+R2065	is a	R10
+R4872	is a	R10
+R4298	is a	R10
+R1000	is a	R10
+R3076	is a	R10
+R4404	is a	R10
+R4717	is a	R10
+R4443	is a	R10
+R4735	is a	R10
+R4388	is a	R10
+R3063	is a	R10
+R5072	is a	R10
+R5223	is a	R10
+R5067	is a	R10
+R4763	is a	R10
+R4281	is a	R10
+R3110	is a	R10
+R5091	is a	R10
+R4614	is a	R10
+R3040	is a	R10
+R4308	is a	R10
+R4432	is a	R10
+R4289	is a	R10
+R4234	is a	R10
+R4172	is a	R10
+R5039	is a	R10
+R4693	is a	R10
+R4337	is a	R10
+R4523	is a	R10
+R4288	is a	R10
+R5289	is a	R10
+R5057	is a	R10
+R4993	is a	R10
+R5138	is a	R10
+R2008	is a	R10
+R4128	is a	R10
+R4501	is a	R10
+R4204	is a	R10
+R4208	is a	R10
+R4224	is a	R10
+R4553	is a	R10
+R4290	is a	R10
+R1013	is a	R10
+R5207	is a	R10
+R4282	is a	R10
+R4819	is a	R10
+R4634	is a	R10
+R4483	is a	R10
+R4110	is a	R10
+R4426	is a	R10
+R4415	is a	R10
+R4590	is a	R10
+R4534	is a	R10
+R3021	is a	R10
+R3000	is a	R10
+R3087	is a	R10
+R4361	is a	R10
+R4796	is a	R10
+R4857	is a	R10
+R4453	is a	R10
+R4968	is a	R10
+R3056	is a	R10
+R4653	is a	R10
+R4133	is a	R10
+R5005	is a	R10
+R4329	is a	R10
+R2022	is a	R10
+R4938	is a	R10
+R5166	is a	R10
+R2000	is a	R10
+R3099	is a	R10
+R5259	is a	R10
+R4677	is a	R10
+R2069	is a	R10
+R5050	is a	R10
+R4952	is a	R10
+R4906	is a	R10
+R3064	is a	R10
+R4347	is a	R10
+R1020	is a	R10
+R4491	is a	R10
+R3013	is a	R10
+R2098	is a	R10
+R4786	is a	R10
+R4511	is a	R10
+R1004	is a	R10
+R5192	is a	R10
+R4918	is a	R10
+R4464	is a	R10
+R4059	is a	R10
+R4258	is a	R10
+R4581	is a	R10
+R2047	is a	R10
+R4101	is a	R10
+R3046	is a	R10
+R4711	is a	R10
+R4884	is a	R10
+R4542	is a	R10
+R4686	is a	R10
+R4372	is a	R10
+R285659	research field	R11
+R592167	research field	R11
+R592163	research field	R11
+R592147	research field	R11
+R592144	research field	R11
+R592102	research field	R11
+R592099	research field	R11
+R592096	research field	R11
+R592090	research field	R11
+R592087	research field	R11
+R592082	research field	R11
+R592079	research field	R11
+R592076	research field	R11
+R592073	research field	R11
+R592069	research field	R11
+R592066	research field	R11
+R592061	research field	R11
+R590048	research field	R11
+R590046	research field	R11
+R590044	research field	R11
+R590042	research field	R11
+R590040	research field	R11
+R590038	research field	R11
+R590036	research field	R11
+R590034	research field	R11
+R590032	research field	R11
+R590030	research field	R11
+R590028	research field	R11
+R590026	research field	R11
+R590024	research field	R11
+R590022	research field	R11
+R590020	research field	R11
+R590018	research field	R11
+R590016	research field	R11
+R590014	research field	R11
+R590012	research field	R11
+R590010	research field	R11
+R590008	research field	R11
+R590006	research field	R11
+R590004	research field	R11
+R590002	research field	R11
+R588264	research field	R11
+R588260	research field	R11
+R588257	research field	R11
+R588254	research field	R11
+R588251	research field	R11
+R588248	research field	R11
+R588245	research field	R11
+R588242	research field	R11
+R588239	research field	R11
+R588236	research field	R11
+R588233	research field	R11
+R588230	research field	R11
+R588227	research field	R11
+R588224	research field	R11
+R588221	research field	R11
+R588216	research field	R11
+R583202	research field	R11
+R583199	research field	R11
+R583196	research field	R11
+R582031	research field	R11
+R582025	research field	R11
+R582017	research field	R11
+R582010	research field	R11
+R582002	research field	R11
+R581295	research field	R11
+R581261	research field	R11
+R581257	research field	R11
+R581252	research field	R11
+R581248	research field	R11
+R581244	research field	R11
+R581240	research field	R11
+R581236	research field	R11
+R581232	research field	R11
+R581228	research field	R11
+R581224	research field	R11
+R581220	research field	R11
+R581213	research field	R11
+R581209	research field	R11
+R581205	research field	R11
+R581201	research field	R11
+R581197	research field	R11
+R581193	research field	R11
+R581033	research field	R11
+R581029	research field	R11
+R581025	research field	R11
+R581021	research field	R11
+R581017	research field	R11
+R581013	research field	R11
+R581009	research field	R11
+R581005	research field	R11
+R581001	research field	R11
+R580036	research field	R11
+R580031	research field	R11
+R580027	research field	R11
+R580023	research field	R11
+R580019	research field	R11
+R580015	research field	R11
+R580011	research field	R11
+R579007	research field	R11
+R554446	research field	R11
+R554442	research field	R11
+R554438	research field	R11
+R554435	research field	R11
+R554427	research field	R11
+R554423	research field	R11
+R554420	research field	R11
+R554416	research field	R11
+R554412	research field	R11
+R554407	research field	R11
+R554404	research field	R11
+R554400	research field	R11
+R554396	research field	R11
+R554392	research field	R11
+R554388	research field	R11
+R554384	research field	R11
+R554380	research field	R11
+R554376	research field	R11
+R554372	research field	R11
+R554368	research field	R11
+R554364	research field	R11
+R554360	research field	R11
+R554355	research field	R11
+R554351	research field	R11
+R554347	research field	R11
+R554341	research field	R11
+R554337	research field	R11
+R554333	research field	R11
+R554330	research field	R11
+R554326	research field	R11
+R554322	research field	R11
+R554318	research field	R11
+R554315	research field	R11
+R554310	research field	R11
+R554306	research field	R11
+R551591	research field	R11
+R551548	research field	R11
+R551536	research field	R11
+R551478	research field	R11
+R551446	research field	R11
+R551230	research field	R11
+R551210	research field	R11
+R551175	research field	R11
+R551145	research field	R11
+R550954	research field	R11
+R550941	research field	R11
+R550928	research field	R11
+R550912	research field	R11
+R541955	research field	R11
+R541944	research field	R11
+R541942	research field	R11
+R541939	research field	R11
+R541932	research field	R11
+R541930	research field	R11
+R541928	research field	R11
+R375338	research field	R11
+R375326	research field	R11
+R375316	research field	R11
+R371138	research field	R11
+R371133	research field	R11
+R371123	research field	R11
+R371104	research field	R11
+R371099	research field	R11
+R371100	research field	R11
+R371085	research field	R11
+R371084	research field	R11
+R371062	research field	R11
+R371064	research field	R11
+R371061	research field	R11
+R371059	research field	R11
+R371048	research field	R11
+R371034	research field	R11
+R371031	research field	R11
+R371010	research field	R11
+R371004	research field	R11
+R370044	research field	R11
+R370030	research field	R11
+R370027	research field	R11
+R370012	research field	R11
+R370008	research field	R11
+R370003	research field	R11
+R369996	research field	R11
+R369992	research field	R11
+R369987	research field	R11
+R369982	research field	R11
+R369969	research field	R11
+R369951	research field	R11
+R369947	research field	R11
+R369944	research field	R11
+R369932	research field	R11
+R369926	research field	R11
+R369922	research field	R11
+R369867	research field	R11
+R285656	research field	R11
+R285653	research field	R11
+R285650	research field	R11
+R285647	research field	R11
+R285644	research field	R11
+R285641	research field	R11
+R285639	research field	R11
+R285636	research field	R11
+R285634	research field	R11
+R285632	research field	R11
+R285629	research field	R11
+R285627	research field	R11
+R285625	research field	R11
+R285622	research field	R11
+R285619	research field	R11
+R285616	research field	R11
+R285614	research field	R11
+R285611	research field	R11
+R285608	research field	R11
+R285603	research field	R11
+R285600	research field	R11
+R285597	research field	R11
+R285595	research field	R11
+R285592	research field	R11
+R285589	research field	R11
+R285586	research field	R11
+R285583	research field	R11
+R285581	research field	R11
+R285578	research field	R11
+R285575	research field	R11
+R285572	research field	R11
+R285569	research field	R11
+R285566	research field	R11
+R285564	research field	R11
+R285561	research field	R11
+R285558	research field	R11
+R285556	research field	R11
+R285554	research field	R11
+R285550	research field	R11
+R285548	research field	R11
+R285545	research field	R11
+R285543	research field	R11
+R285541	research field	R11
+R285539	research field	R11
+R285536	research field	R11
+R285533	research field	R11
+R285530	research field	R11
+R285528	research field	R11
+R285526	research field	R11
+R285523	research field	R11
+R285520	research field	R11
+R285518	research field	R11
+R285516	research field	R11
+R285513	research field	R11
+R285510	research field	R11
+R285508	research field	R11
+R285506	research field	R11
+R285504	research field	R11
+R285501	research field	R11
+R285498	research field	R11
+R285496	research field	R11
+R285494	research field	R11
+R285492	research field	R11
+R285489	research field	R11
+R285486	research field	R11
+R285484	research field	R11
+R285481	research field	R11
+R285479	research field	R11
+R285477	research field	R11
+R285474	research field	R11
+R285472	research field	R11
+R285469	research field	R11
+R285467	research field	R11
+R285464	research field	R11
+R285462	research field	R11
+R285458	research field	R11
+R285455	research field	R11
+R285451	research field	R11
+R285449	research field	R11
+R285447	research field	R11
+R285444	research field	R11
+R285441	research field	R11
+R285438	research field	R11
+R285436	research field	R11
+R285433	research field	R11
+R285430	research field	R11
+R285427	research field	R11
+R285424	research field	R11
+R285422	research field	R11
+R285419	research field	R11
+R285417	research field	R11
+R285415	research field	R11
+R285412	research field	R11
+R285403	research field	R11
+R284445	research field	R11
+R284443	research field	R11
+R284441	research field	R11
+R284438	research field	R11
+R284436	research field	R11
+R284433	research field	R11
+R284430	research field	R11
+R284427	research field	R11
+R284425	research field	R11
+R284422	research field	R11
+R284420	research field	R11
+R284418	research field	R11
+R284416	research field	R11
+R284413	research field	R11
+R284411	research field	R11
+R284408	research field	R11
+R284405	research field	R11
+R284403	research field	R11
+R284401	research field	R11
+R284399	research field	R11
+R284396	research field	R11
+R284394	research field	R11
+R284391	research field	R11
+R284389	research field	R11
+R284387	research field	R11
+R284385	research field	R11
+R284383	research field	R11
+R284381	research field	R11
+R284379	research field	R11
+R284376	research field	R11
+R284374	research field	R11
+R284371	research field	R11
+R284369	research field	R11
+R284366	research field	R11
+R284364	research field	R11
+R284362	research field	R11
+R284360	research field	R11
+R284357	research field	R11
+R284355	research field	R11
+R284353	research field	R11
+R284349	research field	R11
+R284346	research field	R11
+R284344	research field	R11
+R284342	research field	R11
+R284339	research field	R11
+R284336	research field	R11
+R284333	research field	R11
+R284330	research field	R11
+R284327	research field	R11
+R284325	research field	R11
+R284323	research field	R11
+R284320	research field	R11
+R284317	research field	R11
+R284315	research field	R11
+R284313	research field	R11
+R284310	research field	R11
+R284307	research field	R11
+R284305	research field	R11
+R284303	research field	R11
+R284300	research field	R11
+R284298	research field	R11
+R284296	research field	R11
+R284294	research field	R11
+R284292	research field	R11
+R284289	research field	R11
+R284287	research field	R11
+R284284	research field	R11
+R284282	research field	R11
+R284280	research field	R11
+R284278	research field	R11
+R284276	research field	R11
+R284274	research field	R11
+R284271	research field	R11
+R284269	research field	R11
+R284267	research field	R11
+R284265	research field	R11
+R284262	research field	R11
+R284260	research field	R11
+R284258	research field	R11
+R284256	research field	R11
+R284254	research field	R11
+R284251	research field	R11
+R284249	research field	R11
+R284247	research field	R11
+R284244	research field	R11
+R284241	research field	R11
+R284238	research field	R11
+R284235	research field	R11
+R284232	research field	R11
+R284229	research field	R11
+R284227	research field	R11
+R284225	research field	R11
+R284223	research field	R11
+R284221	research field	R11
+R284219	research field	R11
+R284216	research field	R11
+R284214	research field	R11
+R284212	research field	R11
+R284210	research field	R11
+R284208	research field	R11
+R284206	research field	R11
+R284204	research field	R11
+R284202	research field	R11
+R284200	research field	R11
+R284198	research field	R11
+R284196	research field	R11
+R284194	research field	R11
+R284192	research field	R11
+R284190	research field	R11
+R284188	research field	R11
+R284186	research field	R11
+R284183	research field	R11
+R284180	research field	R11
+R284178	research field	R11
+R284175	research field	R11
+R284173	research field	R11
+R284171	research field	R11
+R284169	research field	R11
+R284167	research field	R11
+R284165	research field	R11
+R284163	research field	R11
+R284161	research field	R11
+R284158	research field	R11
+R284156	research field	R11
+R284154	research field	R11
+R284152	research field	R11
+R284150	research field	R11
+R284148	research field	R11
+R284146	research field	R11
+R284144	research field	R11
+R284142	research field	R11
+R284140	research field	R11
+R284138	research field	R11
+R284136	research field	R11
+R284134	research field	R11
+R284132	research field	R11
+R284129	research field	R11
+R284126	research field	R11
+R284124	research field	R11
+R284121	research field	R11
+R284118	research field	R11
+R284115	research field	R11
+R284113	research field	R11
+R284110	research field	R11
+R284108	research field	R11
+R284105	research field	R11
+R284103	research field	R11
+R284101	research field	R11
+R284098	research field	R11
+R284095	research field	R11
+R284093	research field	R11
+R284091	research field	R11
+R284089	research field	R11
+R284086	research field	R11
+R284084	research field	R11
+R284082	research field	R11
+R284080	research field	R11
+R284078	research field	R11
+R284076	research field	R11
+R284074	research field	R11
+R284072	research field	R11
+R284070	research field	R11
+R284068	research field	R11
+R284066	research field	R11
+R284064	research field	R11
+R284062	research field	R11
+R284060	research field	R11
+R284058	research field	R11
+R284056	research field	R11
+R284054	research field	R11
+R284052	research field	R11
+R284050	research field	R11
+R284048	research field	R11
+R284046	research field	R11
+R284044	research field	R11
+R284042	research field	R11
+R284040	research field	R11
+R284038	research field	R11
+R284036	research field	R11
+R284033	research field	R11
+R284031	research field	R11
+R284029	research field	R11
+R284027	research field	R11
+R284025	research field	R11
+R284023	research field	R11
+R284021	research field	R11
+R284019	research field	R11
+R284017	research field	R11
+R284015	research field	R11
+R284013	research field	R11
+R284010	research field	R11
+R284008	research field	R11
+R284006	research field	R11
+R284004	research field	R11
+R284002	research field	R11
+R284000	research field	R11
+R283998	research field	R11
+R283996	research field	R11
+R283994	research field	R11
+R283992	research field	R11
+R283990	research field	R11
+R283987	research field	R11
+R283985	research field	R11
+R283983	research field	R11
+R283981	research field	R11
+R283979	research field	R11
+R283977	research field	R11
+R283975	research field	R11
+R283973	research field	R11
+R283971	research field	R11
+R283969	research field	R11
+R283967	research field	R11
+R283965	research field	R11
+R283963	research field	R11
+R283961	research field	R11
+R283959	research field	R11
+R283956	research field	R11
+R283953	research field	R11
+R283950	research field	R11
+R283948	research field	R11
+R283946	research field	R11
+R283944	research field	R11
+R283942	research field	R11
+R283940	research field	R11
+R283937	research field	R11
+R283934	research field	R11
+R283931	research field	R11
+R283929	research field	R11
+R283927	research field	R11
+R283925	research field	R11
+R283923	research field	R11
+R283921	research field	R11
+R283919	research field	R11
+R283917	research field	R11
+R283915	research field	R11
+R283913	research field	R11
+R283911	research field	R11
+R283908	research field	R11
+R283905	research field	R11
+R283902	research field	R11
+R283900	research field	R11
+R283898	research field	R11
+R283896	research field	R11
+R283894	research field	R11
+R283892	research field	R11
+R283890	research field	R11
+R283888	research field	R11
+R283886	research field	R11
+R283884	research field	R11
+R283882	research field	R11
+R283880	research field	R11
+R283878	research field	R11
+R283876	research field	R11
+R283874	research field	R11
+R283872	research field	R11
+R283870	research field	R11
+R283868	research field	R11
+R283866	research field	R11
+R283864	research field	R11
+R283862	research field	R11
+R283860	research field	R11
+R283858	research field	R11
+R283856	research field	R11
+R283854	research field	R11
+R283851	research field	R11
+R283849	research field	R11
+R283847	research field	R11
+R283845	research field	R11
+R283843	research field	R11
+R283841	research field	R11
+R283839	research field	R11
+R283837	research field	R11
+R283834	research field	R11
+R283832	research field	R11
+R283830	research field	R11
+R283827	research field	R11
+R283824	research field	R11
+R283821	research field	R11
+R283818	research field	R11
+R283816	research field	R11
+R283814	research field	R11
+R283812	research field	R11
+R283809	research field	R11
+R283806	research field	R11
+R283804	research field	R11
+R283801	research field	R11
+R283799	research field	R11
+R283796	research field	R11
+R283794	research field	R11
+R283792	research field	R11
+R283790	research field	R11
+R283788	research field	R11
+R283786	research field	R11
+R283783	research field	R11
+R283780	research field	R11
+R283777	research field	R11
+R283775	research field	R11
+R283773	research field	R11
+R283770	research field	R11
+R283768	research field	R11
+R283766	research field	R11
+R283763	research field	R11
+R283760	research field	R11
+R283757	research field	R11
+R283755	research field	R11
+R283753	research field	R11
+R283750	research field	R11
+R283748	research field	R11
+R283746	research field	R11
+R283744	research field	R11
+R283742	research field	R11
+R283739	research field	R11
+R283737	research field	R11
+R283735	research field	R11
+R283731	research field	R11
+R283729	research field	R11
+R283727	research field	R11
+R283724	research field	R11
+R283722	research field	R11
+R283720	research field	R11
+R283718	research field	R11
+R283715	research field	R11
+R283713	research field	R11
+R283710	research field	R11
+R283708	research field	R11
+R283706	research field	R11
+R283704	research field	R11
+R283702	research field	R11
+R283700	research field	R11
+R283698	research field	R11
+R283693	research field	R11
+R283691	research field	R11
+R283689	research field	R11
+R283687	research field	R11
+R283684	research field	R11
+R283681	research field	R11
+R283679	research field	R11
+R283677	research field	R11
+R283675	research field	R11
+R283673	research field	R11
+R283670	research field	R11
+R283668	research field	R11
+R283665	research field	R11
+R283662	research field	R11
+R283659	research field	R11
+R283656	research field	R11
+R283654	research field	R11
+R283651	research field	R11
+R283649	research field	R11
+R283646	research field	R11
+R283644	research field	R11
+R283641	research field	R11
+R283639	research field	R11
+R283636	research field	R11
+R283634	research field	R11
+R283632	research field	R11
+R283630	research field	R11
+R283628	research field	R11
+R283626	research field	R11
+R283624	research field	R11
+R283621	research field	R11
+R283618	research field	R11
+R283616	research field	R11
+R283614	research field	R11
+R283611	research field	R11
+R283609	research field	R11
+R283606	research field	R11
+R283603	research field	R11
+R283601	research field	R11
+R283599	research field	R11
+R283597	research field	R11
+R283595	research field	R11
+R283593	research field	R11
+R283590	research field	R11
+R283587	research field	R11
+R283584	research field	R11
+R283581	research field	R11
+R283579	research field	R11
+R283576	research field	R11
+R283574	research field	R11
+R283572	research field	R11
+R283570	research field	R11
+R283567	research field	R11
+R283564	research field	R11
+R283561	research field	R11
+R283558	research field	R11
+R283556	research field	R11
+R283554	research field	R11
+R283552	research field	R11
+R283549	research field	R11
+R283547	research field	R11
+R283545	research field	R11
+R283543	research field	R11
+R283540	research field	R11
+R283538	research field	R11
+R283536	research field	R11
+R283533	research field	R11
+R283531	research field	R11
+R283529	research field	R11
+R283527	research field	R11
+R283524	research field	R11
+R283522	research field	R11
+R283520	research field	R11
+R283518	research field	R11
+R283516	research field	R11
+R283513	research field	R11
+R283510	research field	R11
+R283508	research field	R11
+R283506	research field	R11
+R283503	research field	R11
+R283500	research field	R11
+R283498	research field	R11
+R283496	research field	R11
+R283493	research field	R11
+R283490	research field	R11
+R283488	research field	R11
+R283486	research field	R11
+R283483	research field	R11
+R283481	research field	R11
+R283478	research field	R11
+R283476	research field	R11
+R283474	research field	R11
+R283472	research field	R11
+R283470	research field	R11
+R283467	research field	R11
+R283464	research field	R11
+R283462	research field	R11
+R283460	research field	R11
+R283456	research field	R11
+R283453	research field	R11
+R283451	research field	R11
+R283449	research field	R11
+R283447	research field	R11
+R283445	research field	R11
+R283443	research field	R11
+R283441	research field	R11
+R283438	research field	R11
+R283435	research field	R11
+R283432	research field	R11
+R283429	research field	R11
+R283426	research field	R11
+R283423	research field	R11
+R283420	research field	R11
+R283418	research field	R11
+R283416	research field	R11
+R283414	research field	R11
+R283411	research field	R11
+R283409	research field	R11
+R283407	research field	R11
+R283404	research field	R11
+R283402	research field	R11
+R283399	research field	R11
+R283397	research field	R11
+R283394	research field	R11
+R283391	research field	R11
+R283388	research field	R11
+R283385	research field	R11
+R283383	research field	R11
+R283381	research field	R11
+R283378	research field	R11
+R283376	research field	R11
+R283373	research field	R11
+R283371	research field	R11
+R283369	research field	R11
+R283366	research field	R11
+R283363	research field	R11
+R283361	research field	R11
+R283358	research field	R11
+R283355	research field	R11
+R283352	research field	R11
+R283350	research field	R11
+R283347	research field	R11
+R283344	research field	R11
+R283342	research field	R11
+R283339	research field	R11
+R283337	research field	R11
+R283335	research field	R11
+R283332	research field	R11
+R283329	research field	R11
+R283327	research field	R11
+R283325	research field	R11
+R283322	research field	R11
+R283320	research field	R11
+R283317	research field	R11
+R283314	research field	R11
+R283311	research field	R11
+R283309	research field	R11
+R283306	research field	R11
+R283303	research field	R11
+R283301	research field	R11
+R283299	research field	R11
+R283296	research field	R11
+R283293	research field	R11
+R276062	research field	R11
+R273010	research field	R11
+R261026	research field	R11
+R261024	research field	R11
+R261022	research field	R11
+R261020	research field	R11
+R261018	research field	R11
+R261016	research field	R11
+R261014	research field	R11
+R261012	research field	R11
+R261010	research field	R11
+R261008	research field	R11
+R261006	research field	R11
+R261004	research field	R11
+R261002	research field	R11
+R261000	research field	R11
+R258023	research field	R11
+R236422	research field	R11
+R236420	research field	R11
+R236417	research field	R11
+R236415	research field	R11
+R236411	research field	R11
+R236408	research field	R11
+R236405	research field	R11
+R236402	research field	R11
+R236381	research field	R11
+R236372	research field	R11
+R236362	research field	R11
+R236336	research field	R11
+R236332	research field	R11
+R236330	research field	R11
+R236328	research field	R11
+R236325	research field	R11
+R236319	research field	R11
+R236315	research field	R11
+R236311	research field	R11
+R236308	research field	R11
+R236305	research field	R11
+R236302	research field	R11
+R12002	Template of research field	R11
+R225302	research field	R11
+R225300	research field	R11
+R225298	research field	R11
+R225296	research field	R11
+R225294	research field	R11
+R225292	research field	R11
+R225290	research field	R11
+R225288	research field	R11
+R225286	research field	R11
+R225284	research field	R11
+R225282	research field	R11
+R225280	research field	R11
+R225278	research field	R11
+R225276	research field	R11
+R225274	research field	R11
+R225272	research field	R11
+R225270	research field	R11
+R225268	research field	R11
+R225266	research field	R11
+R225264	research field	R11
+R225262	research field	R11
+R225260	research field	R11
+R225258	research field	R11
+R225256	research field	R11
+R225254	research field	R11
+R222233	research field	R11
+R222230	research field	R11
+R222227	research field	R11
+R222224	research field	R11
+R222200	research field	R11
+R222177	research field	R11
+R214282	research field	R11
+R214278	research field	R11
+R214259	research field	R11
+R214251	research field	R11
+R214248	research field	R11
+R214244	research field	R11
+R214233	research field	R11
+R210288	research field	R11
+R210285	research field	R11
+R210282	research field	R11
+R210279	research field	R11
+R210276	research field	R11
+R210273	research field	R11
+R210270	research field	R11
+R210267	research field	R11
+R210264	research field	R11
+R210261	research field	R11
+R210259	research field	R11
+R210257	research field	R11
+R210254	research field	R11
+R210252	research field	R11
+R210250	research field	R11
+R210247	research field	R11
+R210245	research field	R11
+R210242	research field	R11
+R210240	research field	R11
+R210238	research field	R11
+R210235	research field	R11
+R210232	research field	R11
+R210228	research field	R11
+R210225	research field	R11
+R210222	research field	R11
+R210219	research field	R11
+R210216	research field	R11
+R210213	research field	R11
+R210210	research field	R11
+R210207	research field	R11
+R210204	research field	R11
+R210201	research field	R11
+R210198	research field	R11
+R210195	research field	R11
+R210192	research field	R11
+R210190	research field	R11
+R210187	research field	R11
+R210184	research field	R11
+R210182	research field	R11
+R210179	research field	R11
+R210176	research field	R11
+R210173	research field	R11
+R210170	research field	R11
+R210167	research field	R11
+R210164	research field	R11
+R210161	research field	R11
+R210158	research field	R11
+R210155	research field	R11
+R210151	research field	R11
+R210149	research field	R11
+R210147	research field	R11
+R210144	research field	R11
+R210141	research field	R11
+R210015	research field	R11
+R192306	research field	R11
+R192303	research field	R11
+R192299	research field	R11
+R190518	research field	R11
+R190512	research field	R11
+R189995	research field	R11
+R189991	research field	R11
+R189203	research field	R11
+R189201	research field	R11
+R189196	research field	R11
+R189194	research field	R11
+R187637	research field	R11
+R187635	research field	R11
+R186678	research field	R11
+R186674	research field	R11
+R186670	research field	R11
+R186666	research field	R11
+R186659	research field	R11
+R186589	research field	R11
+R186585	research field	R11
+R186581	research field	R11
+R186577	research field	R11
+R186574	research field	R11
+R186070	research field	R11
+R186068	research field	R11
+R186066	research field	R11
+R186064	research field	R11
+R186062	research field	R11
+R186060	research field	R11
+R186058	research field	R11
+R186056	research field	R11
+R186054	research field	R11
+R186052	research field	R11
+R185434	research field	R11
+R185431	research field	R11
+R185428	research field	R11
+R185425	research field	R11
+R184070	research field	R11
+R184026	research field	R11
+R175222	research field	R11
+R175217	research field	R11
+R172985	research field	R11
+R166712	research field	R11
+R166708	research field	R11
+R166705	research field	R11
+R166701	research field	R11
+R166697	research field	R11
+R166693	research field	R11
+R166689	research field	R11
+R166686	research field	R11
+R166682	research field	R11
+R166677	research field	R11
+R166672	research field	R11
+R165432	research field	R11
+R165394	research field	R11
+R165375	research field	R11
+R165364	research field	R11
+R165291	research field	R11
+R164817	research field	R11
+R164705	research field	R11
+R164400	research field	R11
+R164396	research field	R11
+R161648	research field	R11
+R161502	research field	R11
+R161497	research field	R11
+R161490	research field	R11
+R161482	research field	R11
+R161477	research field	R11
+R161474	research field	R11
+R161470	research field	R11
+R161466	research field	R11
+R161461	research field	R11
+R161457	research field	R11
+R161453	research field	R11
+R161450	research field	R11
+R161446	research field	R11
+R161443	research field	R11
+R161439	research field	R11
+R161435	research field	R11
+R161431	research field	R11
+R161427	research field	R11
+R161423	research field	R11
+R161419	research field	R11
+R160109	research field	R11
+R160105	research field	R11
+R160101	research field	R11
+R160097	research field	R11
+R160093	research field	R11
+R160089	research field	R11
+R160085	research field	R11
+R160081	research field	R11
+R160077	research field	R11
+R160073	research field	R11
+R160069	research field	R11
+R160065	research field	R11
+R160061	research field	R11
+R160057	research field	R11
+R160053	research field	R11
+R160049	research field	R11
+R160045	research field	R11
+R160037	research field	R11
+R160032	research field	R11
+R160025	research field	R11
+R160019	research field	R11
+R160015	research field	R11
+R160010	research field	R11
+R160004	research field	R11
+R160000	research field	R11
+R159996	research field	R11
+R159988	research field	R11
+R159984	research field	R11
+R159979	research field	R11
+R159975	research field	R11
+R159971	research field	R11
+R159803	research field	R11
+R159798	research field	R11
+R159783	research field	R11
+R159774	research field	R11
+R159762	research field	R11
+R159746	research field	R11
+R159739	research field	R11
+R159735	research field	R11
+R159724	research field	R11
+R159719	research field	R11
+R159714	research field	R11
+R159710	research field	R11
+R159706	research field	R11
+R159700	research field	R11
+R159695	research field	R11
+R159686	research field	R11
+R159681	research field	R11
+R159675	research field	R11
+R159671	research field	R11
+R159667	research field	R11
+R159662	research field	R11
+R159657	research field	R11
+R159652	research field	R11
+R159647	research field	R11
+R159642	research field	R11
+R159637	research field	R11
+R159632	research field	R11
+R159628	research field	R11
+R159623	research field	R11
+R159618	research field	R11
+R159614	research field	R11
+R159609	research field	R11
+R159604	research field	R11
+R159596	research field	R11
+R159590	research field	R11
+R159585	research field	R11
+R159580	research field	R11
+R156112	has subject	R11
+R156002	research field	R11
+R155994	research field	R11
+R155988	research field	R11
+R155986	research field	R11
+R155980	research field	R11
+R155944	research field	R11
+R153920	research field	R11
+R153815	has subject	R11
+R153725	has subject	R11
+R153707	research field	R11
+R153636	research field	R11
+R153630	research field	R11
+R153602	research field	R11
+R153595	research field	R11
+R153593	research field	R11
+R153591	research field	R11
+R153585	research field	R11
+R153583	research field	R11
+R153575	research field	R11
+R153568	research field	R11
+R153561	research field	R11
+R153550	research field	R11
+R153544	research field	R11
+R153529	research field	R11
+R153520	research field	R11
+R153515	research field	R11
+R153502	research field	R11
+R153500	research field	R11
+R153005	research field	R11
+R153003	research field	R11
+R153001	research field	R11
+R152999	research field	R11
+R152997	research field	R11
+R152995	research field	R11
+R152993	research field	R11
+R152991	research field	R11
+R152989	research field	R11
+R152983	research field	R11
+R152976	research field	R11
+R152974	research field	R11
+R152972	research field	R11
+R152966	research field	R11
+R152964	research field	R11
+R152950	research field	R11
+R152943	research field	R11
+R152934	research field	R11
+R152931	research field	R11
+R152925	research field	R11
+R152910	research field	R11
+R152901	research field	R11
+R152895	research field	R11
+R151308	research field	R11
+R151306	research field	R11
+R151304	research field	R11
+R151302	research field	R11
+R151300	research field	R11
+R151298	research field	R11
+R151296	research field	R11
+R151294	research field	R11
+R151292	research field	R11
+R151290	research field	R11
+R151288	research field	R11
+R151286	research field	R11
+R151284	research field	R11
+R151282	research field	R11
+R151280	research field	R11
+R151278	research field	R11
+R151276	research field	R11
+R151274	research field	R11
+R151272	research field	R11
+R151270	research field	R11
+R151268	research field	R11
+R151266	research field	R11
+R151264	research field	R11
+R151262	research field	R11
+R151260	research field	R11
+R151258	research field	R11
+R151256	research field	R11
+R151254	research field	R11
+R151252	research field	R11
+R151250	research field	R11
+R151248	research field	R11
+R151246	research field	R11
+R151244	research field	R11
+R151242	research field	R11
+R151240	research field	R11
+R151238	research field	R11
+R151236	research field	R11
+R151234	research field	R11
+R151232	research field	R11
+R151230	research field	R11
+R151228	research field	R11
+R151226	research field	R11
+R151224	research field	R11
+R151222	research field	R11
+R151220	research field	R11
+R151218	research field	R11
+R151216	research field	R11
+R151214	research field	R11
+R151212	research field	R11
+R151210	research field	R11
+R151208	research field	R11
+R151206	research field	R11
+R151204	research field	R11
+R151202	research field	R11
+R151200	research field	R11
+R151198	research field	R11
+R151196	research field	R11
+R151194	research field	R11
+R151192	research field	R11
+R151190	research field	R11
+R151188	research field	R11
+R151185	research field	R11
+R151183	research field	R11
+R151181	research field	R11
+R151179	research field	R11
+R151177	research field	R11
+R151175	research field	R11
+R151173	research field	R11
+R151171	research field	R11
+R151169	research field	R11
+R151167	research field	R11
+R151165	research field	R11
+R151163	research field	R11
+R151161	research field	R11
+R151159	research field	R11
+R151157	research field	R11
+R151155	research field	R11
+R151153	research field	R11
+R151151	research field	R11
+R151149	research field	R11
+R151147	research field	R11
+R151145	research field	R11
+R151143	research field	R11
+R151141	research field	R11
+R151139	research field	R11
+R151137	research field	R11
+R151135	research field	R11
+R151133	research field	R11
+R151131	research field	R11
+R151129	research field	R11
+R151127	research field	R11
+R150075	research field	R11
+R145283	research field	R11
+R145280	research field	R11
+R145276	research field	R11
+R145273	research field	R11
+R145270	research field	R11
+R145267	research field	R11
+R142237	research field	R11
+R142243	research field	R11
+R142241	research field	R11
+R142239	research field	R11
+R142235	research field	R11
+R142233	research field	R11
+R142231	research field	R11
+R140470	research field	R11
+R140151	research field	R11
+R140149	research field	R11
+R140147	research field	R11
+R140145	research field	R11
+R140141	research field	R11
+R137374	research field	R11
+R137021	research field	R11
+R137023	research field	R11
+R111365	research field	R11
+R108519	research field	R11
+R108517	research field	R11
+R108515	research field	R11
+R108513	research field	R11
+R108511	research field	R11
+R108509	research field	R11
+R108507	research field	R11
+R108505	research field	R11
+R108503	research field	R11
+R108500	research field	R11
+R108498	research field	R11
+R108496	research field	R11
+R108494	research field	R11
+R108492	research field	R11
+R108490	research field	R11
+R108488	research field	R11
+R108486	research field	R11
+R108484	research field	R11
+R108482	research field	R11
+R108480	research field	R11
+R108478	research field	R11
+R108476	research field	R11
+R108474	research field	R11
+R108472	research field	R11
+R108470	research field	R11
+R108468	research field	R11
+R108466	research field	R11
+R108464	research field	R11
+R108462	research field	R11
+R108460	research field	R11
+R108458	research field	R11
+R108374	research field	R11
+R108372	research field	R11
+R108442	research field	R11
+R108440	research field	R11
+R108438	research field	R11
+R108436	research field	R11
+R108434	research field	R11
+R108432	research field	R11
+R108430	research field	R11
+R108428	research field	R11
+R108426	research field	R11
+R108424	research field	R11
+R108422	research field	R11
+R108419	research field	R11
+R108417	research field	R11
+R108415	research field	R11
+R108413	research field	R11
+R108411	research field	R11
+R108408	research field	R11
+R108406	research field	R11
+R108404	research field	R11
+R108402	research field	R11
+R108400	research field	R11
+R108398	research field	R11
+R108396	research field	R11
+R108394	research field	R11
+R108392	research field	R11
+R108390	research field	R11
+R108388	research field	R11
+R108386	research field	R11
+R108384	research field	R11
+R108382	research field	R11
+R108380	research field	R11
+R108378	research field	R11
+R108376	research field	R11
+R107943	research field	R11
+R74118	research field	R11
+R70628	research field	R11
+R70626	research field	R11
+R70624	research field	R11
+R70622	research field	R11
+R70620	research field	R11
+R70618	research field	R11
+R70616	research field	R11
+R70614	research field	R11
+R70612	research field	R11
+R70610	research field	R11
+R70608	research field	R11
+R70606	research field	R11
+R70603	research field	R11
+R70601	research field	R11
+R70599	research field	R11
+R70597	research field	R11
+R70595	research field	R11
+R70593	research field	R11
+R70591	research field	R11
+R70589	research field	R11
+R70587	research field	R11
+R70585	research field	R11
+R70566	research field	R11
+R70564	research field	R11
+R70562	research field	R11
+R70560	research field	R11
+R70558	research field	R11
+R70556	research field	R11
+R70554	research field	R11
+R70552	research field	R11
+R70550	research field	R11
+R70548	research field	R11
+R70546	research field	R11
+R70543	research field	R11
+R70541	research field	R11
+R70539	research field	R11
+R70537	research field	R11
+R70535	research field	R11
+R70533	research field	R11
+R70531	research field	R11
+R70529	research field	R11
+R70527	research field	R11
+R70525	research field	R11
+R68928	research field	R11
+R68926	research field	R11
+R68924	research field	R11
+R68922	research field	R11
+R68920	research field	R11
+R68762	research field	R11
+R68540	venue	R11
+R52297	research field	R11
+R52289	research field	R11
+R52278	research field	R11
+R51037	research field	R11
+R50671	research field	R11
+R50503	research field	R11
+R50429	research field	R11
+R50390	research field	R11
+R50376	research field	R11
+R50317	research field	R11
+R50309	research field	R11
+R50289	research field	R11
+R50258	research field	R11
+R50227	research field	R11
+R50206	research field	R11
+R50180	research field	R11
+R50173	research field	R11
+R50147	research field	R11
+R50132	research field	R11
+R50122	research field	R11
+R50113	research field	R11
+R50090	research field	R11
+R50059	research field	R11
+R50040	research field	R11
+R50025	research field	R11
+R50018	research field	R11
+R44575	research field	R11
+R36059	research field	R11
+R36057	research field	R11
+R34843	research field	R11
+R34839	research field	R11
+R34835	research field	R11
+R34832	research field	R11
+R34824	research field	R11
+R34814	research field	R11
+R34810	research field	R11
+R34806	research field	R11
+R34803	research field	R11
+R34799	research field	R11
+R34796	research field	R11
+R34791	research field	R11
+R34787	research field	R11
+R34784	research field	R11
+R34781	research field	R11
+R34777	research field	R11
+R34773	research field	R11
+R34769	research field	R11
+R34765	research field	R11
+R34761	research field	R11
+R34709	research field	R11
+R34704	research field	R11
+R34701	research field	R11
+R34699	research field	R11
+R34695	research field	R11
+R34693	research field	R11
+R34690	research field	R11
+R34686	research field	R11
+R34682	research field	R11
+R34678	research field	R11
+R34674	research field	R11
+R34670	research field	R11
+R34666	research field	R11
+R34660	research field	R11
+R34658	research field	R11
+R34656	research field	R11
+R34654	research field	R11
+R34652	research field	R11
+R34649	research field	R11
+R34647	research field	R11
+R34644	research field	R11
+R34641	research field	R11
+R34639	research field	R11
+R34635	research field	R11
+R34633	research field	R11
+R34631	research field	R11
+R34629	research field	R11
+R34627	research field	R11
+R34625	research field	R11
+R34622	research field	R11
+R34619	research field	R11
+R34617	research field	R11
+R34615	research field	R11
+R34613	research field	R11
+R34611	research field	R11
