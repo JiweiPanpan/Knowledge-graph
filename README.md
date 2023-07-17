@@ -21,6 +21,8 @@ The file name "Knowlege graph" is about the model of "GRAPH NEURAL NETWORKS FOR 
 - config.py   configurations including device, margin
 - main.py     
 
+## Result
+
 
 
 
