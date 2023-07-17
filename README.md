@@ -22,7 +22,8 @@ The file name "Knowlege graph" is about the model of "GRAPH NEURAL NETWORKS FOR 
 - main.py     
 
 ## Result
-
+The optimized paremter and corresponding test result
+![Test Result](image.png)
 
 
 
