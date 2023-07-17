@@ -15,11 +15,11 @@ This project aims to conduct word and entity embeddings in knowledge graph
 
 ## Usage
 
-model.py    knowledge graph embedding model, transe model
-dataset.py  read the dataset from the knowledge graph dataset
-metrics.py  test procedure
-config.py   configurations including device, margin
-main.py     
+- model.py    knowledge graph embedding model, transe model
+- dataset.py  read the dataset from the knowledge graph dataset
+- metrics.py  test procedure
+- config.py   configurations including device, margin
+- main.py     
 
 
 
