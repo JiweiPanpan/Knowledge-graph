@@ -11,7 +11,7 @@ This project aims to conduct word and entity embeddings in knowledge graph
 
 ## Run the code
 
-1. run main.py by 'python3 main.py'
+- run main.py by 'python3 main.py'
 
 ## Usage
 
