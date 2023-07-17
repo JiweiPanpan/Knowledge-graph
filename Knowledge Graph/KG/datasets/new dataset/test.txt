@@ -1,0 +1,217 @@
+A microwave plasma source for VUV atmospheric photochemistry	research field	Atomic Molecular and Optical Physics
+The Common Information Model CIM	research field	Science
+Why is the Bay of Bengal less productive during summer monsoon compared to the Arabian Sea THE BAY OF BENGAL LESS PRODUCTIVE DURING SUMMER MONSOON	research field	Oceanography
+Development of an infection screening system for entry inspection at airport quarantine stations using ear temperature heart and respiration rates	research field	Science
+Design and analysis of multiwavelength diffractive optics	research field	Optics
+Fe XXV Drake 12	research field	Atomic Molecular and Optical Physics
+An Interactive System for Knowledge Graph Search	research field	Science
+Drug repositioning based on networkspecific core genes identifies potential drugs for the treatment of autism spectrum disorder in children	research field	Science
+Using Video Clips to Support Requirements Elicitation in Focus Groups  An Experience Report	research field	Science
+language generation with multihop reasoning on commonsense knowledge graph	research field	Science
+Keep Your Stakeholders Engaged Interactive Vision Videos in Requirements Engineering	research field	Science
+List A 42 countries	yields	Modularity theorem
+A diagnostic algorithm for the surveillance of deep surgical site infections after colorectal surgery	research field	Science
+A Comparison of Scientific Publications on the State of Empirical Research in Requirements Engineering and Software Engineering	has property	research problem
+Beyond word embeddings learning entity and concept representations from large scale knowledge bases	research field	Science
+Demonstration of a Soft XRay Amplifier	research field	Plasma and Beam Physics
+Engineering Knowledge Graph for Keyword Discovery in Patent Search	research field	Science
+afsasfaf	research field	Science
+QnA System on Educational Textbooks Digital Library Doubt Support System	research field	Science
+Knowledge Graph and Text Jointly Embedding	research field	Science
+cyclegt unsupervised graphtotext and texttograph generation via cycle training	research field	Science
+Ozone risk for crops and pastures in present and future climates	research field	Science
+Proofs of Retrievability from Linearly Homomorphic StructurePreserving Signatures	research field	Science
+Physics	has subfield	Space Physics
+Facilitating the Analysis of COVID19 Literature Through a Knowledge Graph	research field	Science
+High new production in the Bay of Bengal Possible causes and implications	research field	Oceanography
+NMT Enhancement based on Knowledge Graph Mining with Pretrained Language Model	research field	Science
+Assessing the LexicoSemantic Relational Knowledge Captured by Word and Concept Embeddings	research field	Science
+Climate Change and its Effects on the Mental Health of Young People	research field	Science
+Multiyear Analyses Reveal Different Trends Sources and Implications for SourceRelated Human Health Risks of Atmospheric Polycyclic Aromatic Hydrocarbons in the Canadian Great Lakes Basin	research field	Science
+Comparison of experimental and calculated values of the xray in transitions in heliumlike ions 	has subject	Atomic Molecular and Optical Physics
+Multifidelity Monte Carlo estimation for largescale uncertainty propagation	research field	Science
+Knowledge Extraction System from English Newspaper	research field	Science
+A TemplateBased Tibetan Web Text Information Extraction Method	research field	Science
+Oceanography	same as	httpdbpediaorgresourceBiological_oceanography
+A knowledgegraph platform for newsrooms	research field	Science
+Comparison of Antiviral compounds from Natural Sources	has property	research problem
+Why Reinvent the Wheel	is a	paper
+Surrogatebased analysis and optimization	research field	Science
+A Model Identity Card to Support Simulation Model Development Process in a Collaborative Multidisciplinary Design Environment	research field	Science
+Development and Evaluation of a Machine Learning Model for the Early Identification of Patients at Risk for Sepsis	research field	Science
+A knowledge graph based speech interface for question answering systems	research field	Science
+N2O gas emission assessment of the various oceanic regimes	has subject	Oceanography
+asdf	research field	Science
+zeroshot word sense disambiguation using sense definition embeddings	research field	Science
+Starkbroadening measurements of 3dnftransitions in lithiumlike and heliumlike ions	research field	Atomic Molecular and Optical Physics
+Springer Handbook of Science and Technology Indicators	research field	Science
+Determination of the most accurate approach for predicting SOC in soil cover	has property	research problem
+A Generalizable DataDriven Approach to Predict Daily Risk of Clostridium difficile Infection at Two Large Academic Health Centers	research field	Science
+Cloud Computing	research field	Science
+comparation 1	has subject	Physics
+What Determines the Future Ecological Risks of Wastewater Discharges in River Networks Load Location or Climate Change	research field	Science
+Method of Web Information Extraction Based on Decision Tree	research field	Science
+Design of SiCDoped Piezoresistive Pressure Sensor for HighTemperature Applications	research field	Science
+Prevalence of epilepsy in Europe	has property	research problem
+Rapid screening for influenza using a multivariable logistic regression model to save labor at a clinic in Iwaki Fukushima Japan	research field	Science
+GISKG building a largescale hierarchical knowledge graph for geographic information science	research field	Science
+StateoftheArt and Comparative Review of Adaptive Sampling Methods for Kriging	research field	Science
+Picophytoplankton abundance estimation of the Ocean	has subject	Oceanography
+Interval prediction of responses for uncertain multidisciplinary system	research field	Science
+Air Pollution Air Quality and Climate Change	research field	Science
+Comparison of cobinamid synthesis methods	has property	research problem
+How to Build Templates for RDF QuestionAnswering An Uncertain Graph Similarity Join Approach	research field	Science
+Social Media and Disasters A Functional Framework for Social Media Use in Disaster Planning Response and Research	research field	Science
+learning embeddings from scientific corpora using lexical grammatical and semantic information	research field	Science
+Collaborative Optimization of CNN and GAN for Bearing Fault Diagnosis under Unbalanced Datasets	research field	Science
+Healthrelevant concurrent groundlevel ozone and temperature events in recent and future European climate	research field	Science
+A MATHEMATICAL AND COMPUTATIONAL FRAMEWORK FOR MULTIFIDELITY DESIGN AND ANALYSIS WITH COMPUTER MODELS	research field	Science
+A framework to extract biomedical knowledge from glutenrelated tweets The case of dietary concerns in digital era	research field	Science
+High temperature SiC pressure sensors with low offset voltage shift	research field	Science
+Trapping Dynamics of Electrons and Holes Photogenerated in TiO2 Photocatalysts	has property	research problem
+Research Practices	Threat to validity	generalizability internal external
+Highresolution measurements line identification and spectral modeling of Kalpha transitions in Fe XVIIIFe XXV	research field	Atomic Molecular and Optical Physics
+MultiRange Attentive Bicomponent Graph Convolutional Network for Traffic Forecasting	research field	Science
+Atomic Molecular and Optical Physics	has subfield	Atomic Physics
+Optical gain for the Ne VIII 43 transition by capillary discharge pumping	research field	Plasma and Beam Physics
+Climate Change and Natural Hazards	research field	Science
+OpenFire Using deception to reduce network attacks	research field	Science
+Emergency Web 20 to the Rescue	research field	Science
+GKR the Graphical Knowledge Representation for semantic parsing	research field	Science
+High temperature piezoresistive βSiConSOI pressure sensor with on chip SiC thermistor	research field	Science
+Capturing Multimedia Requirements Descriptions with Mobile RE Tools	research field	Science
+Capturing Knowledge in Semanticallytyped Relational Patterns to Enhance Relation Linking	is a	paper
+Human health well being and climate change in China	research field	Science
+Developing a Vietnamese Tourism Question Answering System Using Knowledge Graph and Deep Learning	research field	Science
+Physics	has subfield	Nuclear
+Lowkfilms modification under EUV and VUV radiation	research field	Atomic Molecular and Optical Physics
+Nitrogenase nifH gene expression in diazotrophic cyanobacteria in the Tropical North Atlantic in response to nutrient amendments	research field	Oceanography
+Intense blooms of Trichodesmium erythraeum Cyanophyta in the open waters along east coast of India	research field	Oceanography
+creative storytelling with language models and knowledge graphs	research field	Science
+A Graph Based Tool for Modelling Planning Processes in Building Engineering	is a	paper
+Relationaware Bidirectional Path Reasoning for Commonsense Question Answering	research field	Science
+Energy Extraction and Achievement of the Saturation Limit in a DischargePumped TableTop Soft XRay Amplifier	research field	Plasma and Beam Physics
+Comparison among glucose sensors based on different nanomaterials	research field	Science
+Electronic health recordbased detection of risk factors for Clostridium difficile infection relapse	research field	Science
+BAIKG BiLSTM Embedded ALBERT for Industrial Knowledge Graph Generation and Reuse	research field	Science
+Grubers design of ontologies	yields	Design criteria for ontologies
+Entity Pair Recognition using Semantic Enrichment and Adversarial Training for Chinese Drug Knowledge Extraction	research field	Science
+Conversational Recommender System Based on GRUattention Neural Network	research field	Science
+Transition energies of the D lines in Nalike ions	research field	Atomic Molecular and Optical Physics
+From patches to honeypatches Lightweight attacker misdirection deception and disinformation	research field	Science
+dasdsada	is a	paper
+On the Utilization of Structural and Textual Information of a Scientific Knowledge Graph to Discover Future Research Collaborations A Link Prediction Perspective	research field	Science
+Analysis of ASTER data for mapping bauxite rich pockets within high altitude lateritic bauxite Jharkhand India	research field	Science
+Assessment of picophytoplankton abundance in the Ocean	has subject	Oceanography
+N2O gas emission assessment of the Arabian Sea the northwestern Indian Ocean	has subject	Oceanography
+Condensed Matter Physics	has subfield	Soft Condensed Matter
+Tyche a free novel webbased solution for efficient and unbiased analysis of scientific images	research field	Science
+1916 September 2019 mfEGRA  Multi fidelity Efficient Global Reliability Analysis	research field	Science
+Multicomponent Infrastructure for eLectures  A Viable Solution for Small and MediumSized Organizations	is a	paper
+Atomic Layer Deposition of Nanostructured TiO2 Photocatalysts via Template Approach	research field	Science
+Ironregulatory proteins secure iron availability in cardiomyocytes to prevent heart failure	is a	paper
+Spectral lines broadening in plasmas	Template of predicate	contribution
+exploiting structured knowledge in text via graphguided representation learning	research field	Science
+Multidisciplinary Design Optimization A Survey of Architectures	research field	Science
+contextual language models for knowledge graph completion	research field	Science
+Measurement and Calculation of the StarkBroadening Parameters for the Resonance Lines of Singly Ionized Beryllium	research field	Atomic Molecular and Optical Physics
+Weighted Aggregated Sum Product Assessment	research field	Science
+WebBased Software Tools for Systematic Literature Review in Medicine Systematic Search and Feature Analysis Preprint	research field	Science
+FTGAN A Novel GANBased Data Augmentation Method Coupled TimeFrequency Domain for Imbalanced Bearing Fault Diagnosis	research field	Science
+Fastdischarge excitation of hot capillary plasmas for softxray amplifiers	research field	Plasma and Beam Physics
+Femtosecondpulsedriven 10Hz 418nm laser in Xe ix	research field	Plasma and Beam Physics
+Semantic Data Integration Techniques for Transforming Big Biomedical Data into Actionable Knowledge	research field	Science
+Toward Plasmonic Solar Cells Protection of Silver Nanoparticles via Atomic Layer Deposition of TiO2	research field	Science
+BERT based clinical knowledge extraction for biomedical knowledge graph construction and analysis	research field	Science
+Fluid Dynamics	same as	Arxiv ID physicsfludyn
+Multifidelity domainaware learning for the design of reentry vehicles	research field	Science
+Multifidelity modelling via recursive cokriging and GaussianMarkov random fields	research field	Science
+ZeroKnowledge Proofs of Retrievability	research field	Science
+Comparison of surface vacuum ultraviolet emissions with resonance level number densities I Argon plasmas	research field	Atomic Molecular and Optical Physics
+Short wavelength xray laser research at the Lawrence Livermore National Laboratory	research field	Plasma and Beam Physics
+Intelligent Question Answering System Based on Entrepreneurial Incubation Knowledge Graph	research field	Science
+The development of a laboratory Xray laser	has subject	Plasma and Beam Physics
+Multifold study of volume plasma chemistry in ArCF_4and ArCHF_3  CCP discharges	research field	Atomic Molecular and Optical Physics
+1D fibers based on rGO	has property	research problem
+CREATING STYLE SHEET BY USING SPEECH RECOGNITION	research field	Science
+Contribution 1	Topic	Physics
+Comparison of Brain Network Models using CrossFrequency Coupling and Attack Strategies	research field	Science
+Sentence Phrase and Triple Annotations to Build a Knowledge Graph of Natural Language Processing ContributionsA Trial Dataset	research field	Science
+Communication in the Face of a School Crisis Examining the Volume and Content of Social Media Mentions during Active Shooter Incidents	research field	Science
+SMEs and virtual Rampx00026D teams A motive channel for relationship between SMEs	research field	Science
+Monitoring of land cover and land use changes LULCC based on space images	has property	research problem
+Atomic Layer Deposition of TiO2 for a HighEfficiency HoleBlocking Layer in HoleConductorFree Perovskite Solar Cells Processed in Ambient Air	research field	Science
+A study of the carbon dioxide system in the northern Indian Ocean during premonsoon	research field	Oceanography
+cocoex a tool for linking concepts from texts to conceptnet	research field	Science
+Stark broadening of the B III2s2plines	research field	Plasma and Beam Physics
+When Push Comes to Ads Measuring the Rise of Malicious Push Advertising	research field	Science
+Eddymediated biological productivity in the Bay of Bengal during fall and spring intermonsoons	research field	Oceanography
+Absolute vacuum ultraviolet flux in inductively coupled plasmas and chemical modifications of 193 nm photoresist	research field	Atomic Molecular and Optical Physics
+An Open and Datadriven Taxonomy of Skills Extracted from Online Job Adverts	is a	paper
+HEFT based workflow scheduling algorithm for cost optimization within deadline in hybrid clouds	research field	Science
+Research on Tourism Question Answering System Based on Xian Tourism Knowledge Graph	research field	Science
+Summarization before 2002	has property	research problem
+Diagnostics on an atmospheric pressure plasma jet	research field	Plasma and Beam Physics
+Bifidelity stochastic gradient descent for structural optimization under uncertainty	research field	Science
+Molybdenum limitation of asymbiotic nitrogen fixation in tropical forest soils	research field	Oceanography
+Effect of legume intercrops on soil phosphorus content	has property	description
+Evolution of the Web from Web 10 to 40	research field	Science
+Zero offset drift suppression in SiC pressure sensors at 600	research field	Science
+from natural language to ontology population in the cultural heritage domain a computational linguisticsbased approach	research field	Science
+Towards Efficient Provable Data Possession in Cloud Storage	research field	Science
+Student engagement and persistence in massive open online courses MOOCs	has property	research problem
+extracting and representing causal knowledge of health conditions	research field	Science
+Highresolution measurements line identification and spectral modeling of Kalpha transitions in Fe XVIIIFe XXV	research field	Atomic Molecular and Optical Physics
+Structure of a metasurface cell	Template of research field	Optics
+Ontology learning from text	Template of predicate	contribution
+Comments Mining With TFIDF The Inherent Bias and Its Removal	research field	Science
+Organic Nutrients Support High Primary Production in the Bay of Bengal	research field	Oceanography
+Implications of global climate change for the assessment and management of human health risks of chemicals in the natural environment	research field	Science
+Satellite communications in the new space era A survey and future challenges	research field	Science
+Geschlechtsspezifische Unterschiede bei Inzidenz und Verlauf nosokomialer Infektionen bei PatientInnen mit dekompensierter Leberzirrhose	is a	paper
+neural compositional denotational semantics for question answering	research field	Science
+Business Architecture frameworks v2	has property	research problem
+Twitters Place in the Tussle How Old Power Struggles Play Out on a New Stage	research field	Science
+Social Media in Crisis When Professional Responders Meet Digital Volunteers	research field	Science
+Changing patterns in IT skill sets 19882003	is a	paper
+Neural Machine Translation for SemanticDriven QampA Systems in the Factory Planning	research field	Science
+Classification of postoperative surgical site infections from blood measurements with missing data using recurrent neural networks	research field	Science
+Students ttest	Template of predicate	yields
+Security solutions against web session attacks	has property	research problem
+Absolute measurement of the resonance lines in heliumlike vanadium on an electronbeam ion trap	research field	Atomic Molecular and Optical Physics
+Knowledge and Skill Requirements for Marketing Jobs in the 21st Century	is a	paper
+Improving Prediction of Surgical Site Infection Risk with Multilevel Modeling	research field	Science
+System measurements	Template of research field	Atomic Molecular and Optical Physics
+Ocean carbon cycling in the Indian Ocean 1 Spatiotemporal variability of inorganic carbon and airsea CO2gas exchange INDIAN OCEAN CARBON CYCLE 1	research field	Oceanography
+MultiTask Learning for Knowledge Graph Completion with Pretrained Language Models	research field	Science
+Atomic Layer Deposition of Tadoped TiO2 Electrodes for DyeSensitized Solar Cells	research field	Science
+Students ttest	Template of research field	Science
+Web Data Extraction Based on Label Library	research field	Science
+Summary of the photocatalytic activity of niobates combined with distinct materials towards H2 eVolution from aqueous solution	has property	research problem
+Current Advances Research Needs and Gaps in Mycotoxins Biomonitoring under the HBM4EULessons Learned and Future Trends	research field	Science
+Mentions of open access publications outside of academia	has property	research problem
+Urban traffic flow prediction techniques A review	research field	Science
+Multifidelity Optimization using Statistical Surrogate Modeling for NonHierarchical Information Sources	research field	Science
+Communication in the Face of a School Crisis Examining the Volume and Content of Social Media Mentions during Active Shooter Incidents	research field	Science
+Wie weit fliegt ein Skispringer der mit 72 kmh abspringt	is a	paper
+Cotraining Embeddings of Knowledge Graphs and Entity Descriptions for Crosslingual Entity Alignment	research field	Science
+Comparison of Domainspecific Scholarly Knowledge Graphs	has property	research problem
+Capsules of the diatomAchnanthidium minutissimumarise from fibrillar precursors and foster attachment of bacteria	is a	paper
+Comparison of scholarly knowledge graphs	has property	research problem
+Modeling Multimapping Relations for Precise Crosslingual Entity Alignment	research field	Science
+Implementing LOINC  Current Status and Ongoing Work at a Medical University	is a	paper
+MULTIPLE SURROGATES AND ERROR MODELING IN OPTIMIZATION OF LIQUID ROCKET PROPULSION COMPONENTS	research field	Science
+Stark broadening of spectral lines along the isoelectronic sequence of Li	research field	Atomic Molecular and Optical Physics
+proactive humanmachine conversation with explicit conversation goals	research field	Science
+has part	description	Indicates a CreativeWork that is in some sense a part of this CreativeWork Reverse property isPartOf
+Web 20 and Internet Social Networking A New Tool for Disaster Management Lessons from Taiwan	research field	Science
+A knowledge graphbased approach for exploring railway operational accidents	research field	Science
+TIBs Portal for Audiovisual Media Combining Manual and Automatic Indexing	is a	paper
+Citationchaser A tool for transparent and efficient forward and backward citation chasing in systematic searching	research field	Science
+Recruiting Project Managers A Comparative Analysis of Competencies and Recruitment Signals from Job Advertisements	is a	paper
+Biological and Chemical Physics	same as	Arxiv ID Chemical Physics
+CL Scholar The ACL Anthology Knowledge Graph Miner	research field	Science
+First direct measurements of N2 fixation during a Trichodesmium bloom in the eastern Arabian Sea	research field	Oceanography
+commonsense evidence generation and injection in reading comprehension	research field	Science
+The reciprocity of data integration in disaster risk analysis	research field	Science
+Neither Access nor Control A Longitudinal Investigation of the Efficacy of User AccessControl Solutions on Smartphones	research field	Science
