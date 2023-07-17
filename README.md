@@ -1,7 +1,7 @@
 # AC-DL-LAB-SS-2023-Team02
 # Graph Neural Networks For Text Embeddings
 
-This project aims to conduct word and entity embeddings in knowledge graph
+The file name "Knowlege graph" is about the model of "GRAPH NEURAL NETWORKS FOR TEXT EMBEDDING". Our aim is to predict tail entities in knowledge graph triples. We use the TransE model and give an improved method for wordembedding. Finally, Hit@10 and MRR were used to evaluate the accuracy.
 
 ## Dependencies
 
