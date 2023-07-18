@@ -1,0 +1,9 @@
+generalizability internal external	External validity	true
+Flood hazards and health responding to present and future risks	research field	Science
+Stark broadening of neutral helium lines	research field	Plasma and Beam Physics
+Xray laser	Template of predicate	contribution
+High Dose Extrapolation in Climate Change Projections of HeatRelated Mortality	research field	Science
+Constructing Micro Knowledge Graphs from Technical Support Documents	research field	Science
+Highly sensitive 4HSiC pressure sensor at cryogenic and elevated temperatures	research field	Science
+seq2kg an endtoend neural model for domain agnostic knowledge graph not text graph construction from text	research field	Science
+Physics	has subfield	Physics Education
